@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# manga files (too large)
+/Weekly Viz*/
+/public/manga/
