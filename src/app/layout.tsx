@@ -5,8 +5,8 @@ export const metadata: Metadata = {
   title: "桜 Sakura — Manga on Solana",
   description: "Read manga, collect chapters, own your library. A Solana-powered manga reading platform with beautiful Japanese aesthetics.",
   icons: {
-    icon: "/sakura.png",
-    apple: "/sakura.png",
+    icon: "/sakuraicon.png",
+    apple: "/sakuraicon.png",
   },
 };
 
